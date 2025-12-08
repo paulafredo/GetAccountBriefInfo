@@ -42,3 +42,7 @@ certificat_mitmproxy.pe
 ## ⚠️ Disclaimer
 
 This project is for educational and debugging purposes only.
+
+## Author
+
+[Paul Alfredo](https://github.com/paulafredo)
